@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12598688600",
+    "project_id": "edocar-c77e0",
+    "storage_bucket": "edocar-c77e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12598688600:android:2e1a8421b586aade5d832d",
+        "android_client_info": {
+          "package_name": "com.example.edocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12598688600-ounrnuq2mt5r557qvr00qdg1qgif22o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2nnSGE_fvTfeTLiNFFkrJA25E2Fqm8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12598688600-ounrnuq2mt5r557qvr00qdg1qgif22o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
